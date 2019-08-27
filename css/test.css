@@ -1,0 +1,24 @@
+h1 {
+	font-size: 56px;
+	color: orange;
+}
+
+h2 {
+	font-size: 35px;
+	color: blue;
+}
+
+h3 {
+	font-size: 22px;
+	color: #872653;
+}
+
+p {
+	font-size: 18px;
+	color: black;
+}
+
+.repeat {
+	color: teal;
+	font-family: sans-serif;
+}
